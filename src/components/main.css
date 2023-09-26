@@ -1,0 +1,25 @@
+@media only screen and (max-width: 768px) {
+	.canvas {
+		height: 400px !important;
+	}
+
+	.canvass {
+		position: relative;
+		top: -50px;
+		height: 300px !important;
+	}
+}
+
+@media only screen and (max-height: 668px) {
+	.canvass {
+		position: relative;
+		top: 60px;
+		height: 300px !important;
+	}
+}
+
+.yoda {
+	left: -30px;
+	width: 400px !important;
+	height: 400px !important;
+}
